@@ -9,5 +9,7 @@ This is our production for the course "Physique appliquée aux sciences sociales
 
 If you want to see the animation, please dowload streamlit package and execute "streamlit run + file" in anaconda (as indicated in every file).
 
+Only the firt code is commented with details (as the orthers are similar).
+
 ## Shorrt model:
 In the file "code_short" you can find all the code about the Short model which is discribing in the paper.
