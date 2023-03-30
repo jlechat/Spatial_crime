@@ -11,5 +11,5 @@ If you want to see the animation, please dowload streamlit package and execute "
 
 Only the firt code is commented with details (as the orthers are similar).
 
-## Shorrt model:
+## Short model:
 In the file "code_short" you can find all the code about the Short model which is discribing in the paper.
